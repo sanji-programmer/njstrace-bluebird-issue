@@ -1,0 +1,23 @@
+{
+  "name": "njstrace-bluebird-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sanji-programmer@github.com/sanji-programmer/njstrace-bluebird-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanji-programmer/njstrace-bluebird-issue/issues"
+  },
+  "homepage": "https://github.com/sanji-programmer/njstrace-bluebird-issue#readme",
+  "dependencies": {
+    "bluebird": "3.5.5",
+    "njstrace": "^1.1.0"
+  }
+}
