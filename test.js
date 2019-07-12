@@ -4,6 +4,6 @@ let files = [
     "**/bluebird/**"
 ];
 
-require('njstrace').inject({ files, logger: true });
+require('njstrace').inject({ files });
 
 const Promise = require('bluebird');
