@@ -18,6 +18,6 @@
   "homepage": "https://github.com/sanji-programmer/njstrace-bluebird-issue#readme",
   "dependencies": {
     "bluebird": "3.5.5",
-    "njstrace": "^1.1.0"
+    "njstrace": "^1.1.2"
   }
 }
